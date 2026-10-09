@@ -12,6 +12,7 @@
 <a href="mailto:yashwantgokul@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn" /></a>
 <a href="https://tryhackme.com/p/YOUR-THM-USERNAME"><img src="https://img.shields.io/badge/TryHackMe-Top%2015%25-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff9c" alt="TryHackMe" /></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AYashwantgokul+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=author%3AYashwantgokul%20is%3Apr%20is%3Amerged&label=PRs%20MERGED&style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=0d1117&color=0b3d2e" alt="Total PRs merged" /></a>
 <img src="https://komarev.com/ghpvc/?username=Yashwantgokul&style=for-the-badge&color=0b3d2e&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -241,8 +242,8 @@ Walkthrough of a CipherStrike web challenge: `robots.txt` leaks a hidden path, p
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashwantgokul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwantgokul&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Yashwantgokul&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github&show=prs_merged" alt="GitHub stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwantgokul&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Yashwantgokul&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub streak" />
 
